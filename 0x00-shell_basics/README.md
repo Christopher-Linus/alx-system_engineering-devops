@@ -6,3 +6,4 @@ This command ls -la Display current directory contents, including hidden files (
 This command ls -lan Display current directory contents with long format, hidden files and user and group Id displayed numeric
 This command mkdir /tmp/ my_first_directory  creates a directory in the /tmp/ directory
 This command mv /tmp/ betty /tmp/my_first_directory moves betty from /tmp to /tmp/my_first_directory
+This command rm /tmp/my_first_directory/betty deletes betty from /tmp/my_first_directory
