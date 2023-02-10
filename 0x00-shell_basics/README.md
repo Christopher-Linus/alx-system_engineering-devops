@@ -8,3 +8,4 @@ This command mkdir /tmp/ my_first_directory  creates a directory in the /tmp/ di
 This command mv /tmp/ betty /tmp/my_first_directory moves betty from /tmp to /tmp/my_first_directory
 This command rm /tmp/my_first_directory/betty deletes betty from /tmp/my_first_directory
 This command rm -rf /tmp/my_first_directory deletes directory from /tmp
+This command cd - changes the working directory to the previous one
