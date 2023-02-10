@@ -18,4 +18,4 @@ This command rm *- that deletes all files in the current working directory that 
 This command mkdir -p welcome/to/school that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
 This Command ls -amvp  that lists all the files and directories of the current directory, separated by commas (,) directory names should end with a slash(/)
 files and directories starting with a dot(.)
-
+This command 0 string SCHOOL School data !:mime School Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
