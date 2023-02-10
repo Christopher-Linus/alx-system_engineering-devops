@@ -12,4 +12,4 @@ This command cd - changes the working directory to the previous one
 This command ls -la . .. /boot  lists all files in the current directory and the parent of the working directory and the /boot directory, in long format.
 This command file /tmp/iamafile that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory
 This command ln -s /bin/ls _ls_ to Create a symbolic link
-This command cp -un*.html ../ Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+This command cp  -un* .html ../ Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
