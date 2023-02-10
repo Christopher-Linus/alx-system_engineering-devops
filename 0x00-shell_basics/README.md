@@ -11,3 +11,4 @@ This command rm -rf /tmp/my_first_directory deletes directory from /tmp
 This command cd - changes the working directory to the previous one
 This command ls -la . .. /boot  lists all files in the current directory and the parent of the working directory and the /boot directory, in long format.
 This command file /tmp/iamafile that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory
+This command ln -s /bin/ls _ls_ to Create a symbolic link
