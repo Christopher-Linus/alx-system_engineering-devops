@@ -16,3 +16,6 @@ This command cp  -un* .html ../ Create a script that copies all the HTML files f
 This command mv [[:upper:]]* /tmp/u Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u
 This command rm *- that deletes all files in the current working directory that end with the character ~
 This command mkdir -p welcome/to/school that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+This Command ls -amvp  that lists all the files and directories of the current directory, separated by commas (,) directory names should end with a slash(/)
+files and directories starting with a dot(.)
+
