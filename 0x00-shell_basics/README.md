@@ -15,3 +15,4 @@ This command ln -s /bin/ls _ls_ to Create a symbolic link
 This command cp  -un* .html ../ Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 This command mv [[:upper:]]* /tmp/u Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u
 This command rm *- that deletes all files in the current working directory that end with the character ~
+This command mkdir -p welcome/to/school that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
