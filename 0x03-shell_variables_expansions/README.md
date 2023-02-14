@@ -6,4 +6,4 @@ This script prints environment variables
 This script list all local variables and environment variables, and functions
 This script creates a new local variable
 This script creates a global variable
-
+This script prints the result of the addition of 128 and a variable
